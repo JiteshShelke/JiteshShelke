@@ -57,7 +57,7 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jiteshshelke/" target="_blank">
+  <a href="https://www.linkedin.com/in/jitesh-shelke-702745286/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/JiteshShelke" target="_blank">
