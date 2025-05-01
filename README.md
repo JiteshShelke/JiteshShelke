@@ -4,7 +4,7 @@
 <h3 align="center">A Passionate Data Analyst & ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=500&lines=DData+Analyst+%7C+Machine+Learning+Explorer;Python+%7C+Power+BI+%7C+SQL;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=500&lines=DDData+Analyst+%7C+Machine+Learning+Explorer;Python+%7C+Power+BI+%7C+SQL;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
 ---
