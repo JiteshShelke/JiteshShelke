@@ -11,7 +11,7 @@
 
 ### 🧑‍🎓 About Me
 
-🎓 Currently pursuing M.Sc. in Data Analytics at Pillai College (Mumbai University)  
+🎓 M.Sc. in Data Analytics at Pillai College (Mumbai University)  
 📈 B.Sc. in Information Technology graduate with a strong foundation in tech & analytics  
 💼 Data Science Intern @ **360DigiTMG** — specialized in machine downtime optimization  
 💡 Passionate about transforming data into actionable insights and deploying smart ML solutions  
@@ -42,7 +42,9 @@
 #### 🌐 Web Development
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)
+
 
 #### 💼 Tools & Platforms
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)
@@ -53,25 +55,6 @@
 
 ---
 
-### 💼 Experience & Projects
-
-#### 🏢 **360DigiTMG** – Data Science Intern  
-`Dec 2023 – Jan 2024`  
-- Hands-on training in **Python, SQL, Machine Learning**
-- Worked on **"Optimization of Machine Downtime"** using real-world industrial data
-- Focused on preprocessing, analysis, and predictive modeling to reduce downtime
-
-#### 🩺 **Complete Health Diagnostic Hub**  
-- ML-powered health web app built using **Scikit-learn** & **Flask**
-- Predicts **Heart Disease**, **Kidney Issues**, and **Diabetes**
-- Real-time input and diagnosis for user-friendly health monitoring
-
-#### 🚦 **Traffic Sign Recognition System**  
-- Built using **CNN**, **Keras**, and deployed with **Flask**
-- Achieved **95.12% accuracy** using the German Traffic Sign Dataset
-- Real-time sign detection for smart vehicle assistance
-
----
 
 ### 📜 Certifications
 
@@ -81,16 +64,19 @@
 
 ---
 
-### 📊 GitHub Stats
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JiteshShelke&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JiteshShelke&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JiteshShelke&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JiteshShelke&theme=tokyonight" alt="GitHub Streak" height="200"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiteshShelke&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiteshShelke&layout=compact&theme=tokyonight" alt="Top Languages" height="200"/>
 </p>
+
 
 ---
 
