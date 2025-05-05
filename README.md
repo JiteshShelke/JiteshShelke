@@ -1,73 +1,103 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Jitesh Shelke</h1>
-<h3 align="center">🚀 Passionate Data Analyst | Machine Learning Enthusiast</h3>
+<h3 align="center">A Passionate Data Analyst & Machine Learning Enthusiast from Navi Mumbai</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+ML+Explorer+%7C+Pythonista;Power+BI+%7C+SQL+%7C+Data+Storyteller;Welcome+to+my+GitHub+Universe!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+ML+Explorer+%7C+Python+%7C+Power+BI+%7C+SQL;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧠 About Me
+### 🧑‍🎓 About Me
 
-- 🎓 Final Year Engineering Student  
-- 📊 Exploring the power of **data** to drive insights and decisions  
-- 🤖 Building ML models that solve real-world problems  
-- 🛠️ Currently working on Full Health Checkup ML Web App  
-- 📬 Always curious to collaborate and learn!
-
----
-
-## 🧰 Tech Stack
-
-### 💻 Programming & Databases
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### 📊 Data Analysis & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-20639B?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2D3E50?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### 🤖 Machine Learning
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![ML Models](https://img.shields.io/badge/Classification|Regression|Clustering-blueviolet?style=for-the-badge)
-
-### 🌐 Web Dev & Tools
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### 🛠 Tools & IDEs
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+🎓 Currently pursuing M.Sc. in Data Analytics at Pillai College (Mumbai University)  
+📈 B.Sc. in Information Technology graduate with a strong foundation in tech & analytics  
+💼 Data Science Intern @ **360DigiTMG** — specialized in machine downtime optimization  
+💡 Passionate about transforming data into actionable insights and deploying smart ML solutions  
+🌐 Building intelligent systems using Python, SQL, Scikit-learn, Flask, and more  
+📍 Based in Navi Mumbai, India
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Tech Stack
+
+#### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
+![OracleSQL](https://img.shields.io/badge/-OracleSQL-F80000?logo=oracle&logoColor=white&style=flat-square)
+
+#### 📊 Data Analytics & Visualization
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat-square)
+![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?logo=googleanalytics&logoColor=white&style=flat-square)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-20639B?logo=plotly&logoColor=white&style=flat-square)
+![Seaborn](https://img.shields.io/badge/-Seaborn-2D3E50?style=flat-square)
+
+#### 🤖 Machine Learning
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)
+![ML Models](https://img.shields.io/badge/-Regression|Classification|Clustering-blueviolet?style=flat-square)
+
+#### 🌐 Web Development
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)
+
+#### 💼 Tools & Platforms
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![Excel](https://img.shields.io/badge/-MS%20Excel-217346?logo=microsoft-excel&logoColor=white&style=flat-square)
+
+---
+
+### 💼 Experience & Projects
+
+#### 🏢 **360DigiTMG** – Data Science Intern  
+`Dec 2023 – Jan 2024`  
+- Hands-on training in **Python, SQL, Machine Learning**
+- Worked on **"Optimization of Machine Downtime"** using real-world industrial data
+- Focused on preprocessing, analysis, and predictive modeling to reduce downtime
+
+#### 🩺 **Complete Health Diagnostic Hub**  
+- ML-powered health web app built using **Scikit-learn** & **Flask**
+- Predicts **Heart Disease**, **Kidney Issues**, and **Diabetes**
+- Real-time input and diagnosis for user-friendly health monitoring
+
+#### 🚦 **Traffic Sign Recognition System**  
+- Built using **CNN**, **Keras**, and deployed with **Flask**
+- Achieved **95.12% accuracy** using the German Traffic Sign Dataset
+- Real-time sign detection for smart vehicle assistance
+
+---
+
+### 📜 Certifications
+
+- 📊 **Data Science** – Fly IT Infotech, 2023  
+- 📈 **Power BI** – Pillai College, Oct 2024  
+- 🐍 **Python Essentials 1** – Skill India, Feb 2025
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JiteshShelke&show_icons=true&theme=tokyonight&hide_title=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JiteshShelke&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JiteshShelke&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JiteshShelke&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiteshShelke&layout=compact&theme=tokyonight" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiteshShelke&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jitesh-shelke-702745286/" target="_blank">
+  <a href="https://www.linkedin.com/in/jitesh-shelke/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/JiteshShelke" target="_blank">
@@ -77,10 +107,10 @@
 
 ---
 
-## 📜 Quote of the Day
+### 💬 Quote of the Day
 
-> *"Data is the new oil, but refining it is the real game."*  
-> — **Jitesh Shelke**
+> “Data is the new oil, but refining it is the real game.”  
+> — *Jitesh Shelke*
 
 ---
 
