@@ -70,7 +70,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JiteshShelke&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JiteshShelke&theme=tokyonight" alt="GitHub Streak" height="200"/>
+  <img src="https://streak-stats.demolab.com?user=JiteshShelke&theme=tokyonight" alt="GitHub Streak" height="200"/>
 </p>
 
 <p align="center">
